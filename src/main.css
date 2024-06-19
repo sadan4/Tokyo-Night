@@ -193,11 +193,11 @@
 }
 .theme-dark .spriteContainer_af14ca:not(:hover) {
   filter: none !important;
-  background: url("https://dyzean.github.io/Tokyo-Night/src/assets/emoji-dark.png") center/contain no-repeat !important;
+  background: url("https://sadan4.github.io/Tokyo-Night/src/assets/emoji-dark.png") center/contain no-repeat !important;
 }
 .theme-light .spriteContainer_af14ca:not(:hover) {
   filter: none !important;
-  background: url("https://dyzean.github.io/Tokyo-Night/src/assets/emoji-light.png") center/contain no-repeat !important;
+  background: url("https://sadan4.github.io/Tokyo-Night/src/assets/emoji-light.png") center/contain no-repeat !important;
 }
 
 /* Home Channel */
